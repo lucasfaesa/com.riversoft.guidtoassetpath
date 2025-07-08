@@ -14,7 +14,7 @@ namespace RiverSoft.Editor
         private string guidInput = "";
         private string assetPathResult = "";
     
-        [MenuItem("RiverSoft/Tools/GUIDToAssetPath")]
+        [MenuItem("RiverSoft/GUIDToAssetPath/GUIDToAssetPath")]
         static void CreateWindow()
         {
             GUIDToAssetPath window = (GUIDToAssetPath)EditorWindow.GetWindowWithRect(
