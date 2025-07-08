@@ -4,6 +4,7 @@
   "displayName": "GUID To Asset Path Tool",
   "description": "Simple Editor Window to convert GUIDs to Asset Paths inside Unity.",
   "unity": "2021.3",
+  "license": "MIT",
   "author": {
     "name": "Lucas Rios",
     "email": "lucasfaesa@gmail.com",
