@@ -23,10 +23,6 @@ Install via Unity Package Manager using Git:
    ```
    https://github.com/lucasfaesa/com.riversoft.guidtoassetpath.git
    ```
-   OR
-   ```
-   com.riversoft.guidtoassetpath
-   ```
 4. Click **Add**. The package will be downloaded and available immediately.
 
 ## Usage
