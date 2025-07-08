@@ -21,7 +21,7 @@ Install via Unity Package Manager using Git:
 2. Click the **+** button and select **Add package from Git URL...**
 3. Enter the Git URL for this package, including the tag (replace with your details):
    ```
-   https://github.com/yourusername/com.yourname.guidtoassetpath.git#v1.0.0
+   https://github.com/lucasfaesa/com.riversoft.guidtoassetpath.git
    ```
 4. Click **Add**. The package will be downloaded and available immediately.
 
