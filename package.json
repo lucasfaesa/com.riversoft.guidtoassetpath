@@ -1,6 +1,6 @@
 {
   "name": "com.riversoft.guidtoassetpath",
-  "version": "1.0.2",
+  "version": "1.0.31",
   "displayName": "GUID To Asset Path Tool",
   "description": "Simple Editor Window to convert GUIDs to Asset Paths inside Unity.",
   "unity": "2021.3",
